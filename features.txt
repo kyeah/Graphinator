@@ -1,0 +1,8 @@
+reset button
+fix edge removal
+number of circuits
+cycles / number of cycles
+planarity
+AUTO DISPLAY PLANARITY
+FIX REMOVAL DISTANCE FORMULA
+hide info panel when drawing a connection
