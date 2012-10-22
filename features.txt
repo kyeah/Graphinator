@@ -6,3 +6,7 @@ planarity
 AUTO DISPLAY PLANARITY
 FIX REMOVAL DISTANCE FORMULA
 hide info panel when drawing a connection
+Hamiltonian?
+Eulerian?
+Multigraphs
+Automated graph creation given a string: ex. ({a,b,c},{(a,b),(a,c)})
