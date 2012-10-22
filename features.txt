@@ -1,12 +1,27 @@
-reset button
-fix edge removal
+Features to implement:
+
+===============
+   PROPERTIES
+===============
 number of circuits
 cycles / number of cycles
 planarity
-AUTO DISPLAY PLANARITY
-FIX REMOVAL DISTANCE FORMULA
-hide info panel when drawing a connection
+AUTO DISPLAY PLANARITY (requires curved lines?)
 Hamiltonian?
 Eulerian?
-Multigraphs
+
+===============
+   INTERFACE
+===============
+reset button
+fix edge removal (distance formula problem)
+hide info panel when drawing a connection
 Automated graph creation given a string: ex. ({a,b,c},{(a,b),(a,c)})
+Complete graph tool? (autogenerate a complete graph given number of vertices; implement complete bipartite afterwards)
+keyboard shortcuts for modes
+Resizable nodes?
+
+=======================
+   GRAPH EXTENSIONS
+=======================
+Multigraphs (requires curved lines?)
